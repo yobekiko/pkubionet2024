@@ -472,7 +472,7 @@ ul li {
   opacity: 1;
   height: 150px;
   width: 150px;
-  margin: 25px auto;
+  margin: 2px auto;
   -webkit-transition: 0.5s all linear;
   transition: 0.5s all linear;
 }
